@@ -4,6 +4,7 @@ Disponível em:
 ## Conteúdo:
 ### Programação em Linguagem Python para Machine Learning
 Unidade 1 –  Ambiente De Desenvolvimento
+
 Unidade 2 – Variáveis E Tipos De Dados
 Unidade 3 – Operadores
 Unidade 4 – Estruturas De Dados
